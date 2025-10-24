@@ -91,7 +91,6 @@ Each participant will:
 1. Build 4 working applications: *Hello Expo*, *Portfolio App*, *To-Do List App*, and *Notes App*.  
 2. Test apps live using **Expo Go**.  
 3. Push final projects to **GitHub** as part of their personal app development portfolio.  
-4. Receive participation or *Top Developer* recognition from the **IoT Club, DCE** 🏆.
 
 ---
 
